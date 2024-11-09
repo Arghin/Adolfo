@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.title {
+    color: #4CAF50; /* Green */
+    text-align: center;
+}
+
+.intro {
+    color: #333; /* Dark Gray */
+    font-size: 18px;
+}
+
+.highlight {
+    color: #FF5722; /* Orange */
+    font-weight: bold;
+}
+
+.note {
+    color: #2196F3; /* Blue */
+    font-style: italic;
+}
